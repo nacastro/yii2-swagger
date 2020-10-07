@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.4.0",
         "yiisoft/yii2": "~2.0.19",
         "zircote/swagger-php": "^3.0.5",
         "bower-asset/swagger-ui": "^3.1"
